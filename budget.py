@@ -1,4 +1,6 @@
-# This simple database will store a budget program
+'''
+This simple database will store a budget program.The focus of this software is to help the user easily add the different categories and amounts they plan on budgeting for the month. They will have the option to edit, add, or delete from their budgeted table. 
+'''
 
 import sqlite3
 from unicodedata import category
