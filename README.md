@@ -2,7 +2,7 @@
 
 This budget database was created to help me learn more about SQL programming. I picked SQLite because it is a C-language package that offers a small, efficient, self-contained, high-reliability, full-featured SQL database engine. I made a basic budget software as a practice that allows the user to add, delete, and update their budget table. The user will have the choice of seeing both their budget table and their overall budgeted amount.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kmB18e92IGw)
 
 # Relational Database
 
